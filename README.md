@@ -1,4 +1,4 @@
-r# FingerCursor
+## FingerCursor
 
 Control your mouse with your index finger using the laptop webcam. No extra hardware needed.
 

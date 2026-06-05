@@ -1,0 +1,9 @@
+mediapipe>=0.10.9
+opencv-python>=4.9.0
+pyautogui>=0.9.54
+pystray>=0.19.5
+Pillow>=10.3.0
+keyboard>=0.13.5
+
+# Windows only — imported with try/except in code so macOS installs don't break
+pywin32>=306
